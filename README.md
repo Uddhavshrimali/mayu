@@ -1,0 +1,2 @@
+# mayu
+simple website
